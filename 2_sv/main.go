@@ -14,4 +14,5 @@ func main(){
 	//floats
 	fmt.Println(10.5)
 	fmt.Println(7.0/3.0)
+	fmt.Println(7.0/3.5)
 }
